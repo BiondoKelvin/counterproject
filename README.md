@@ -11,7 +11,9 @@ AUTORE DEL PROGETTO
 ----------------------------------
 Antony Russo
 
-Instagram contact: @whatistonydoing
-Facebook contact: Antony Russo
-email: golea1dor1@gmail.com
+- Instagram contact: @whatistonydoing
+- 
+- Facebook contact: Antony Russo
+
+- email: golea1dor1@gmail.com
 
